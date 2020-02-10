@@ -3,22 +3,40 @@ import './Style.css'
 
 export const Inventory = () => {
     return (
-        <div className="inventory container mt-5">
-            <div className="button-inventory">
-                <button className="btn btn-dark">Good and Services</button>
-                <button className="btn btn-dark">Product Requisition</button>
-                <button className="btn btn-dark">Material Addition</button>
-                <button className="btn btn-dark">Job Order</button>
-                <button className="btn btn-dark">Product Category</button>
-                <button className="btn btn-dark">Product Minimum Stock</button>
-                <button className="btn btn-dark">Stock Adjusment</button>
-                <button className="btn btn-dark">Warehouse</button>
-                <button className="btn btn-dark">Warehouse Transfer</button>
-                <button className="btn btn-dark">Product Unit</button>
+        <>
+        <div className="row page-titles">
+            <div className="col-md-5 align-self-center">
+            <h4 className="text-themecolor">Budgeting</h4>
             </div>
-            
+            <div className="col-md-7 align-self-center text-right">
+            <div className="d-flex justify-content-end align-items-center">
+                <ol className="breadcrumb">
+                <li className="breadcrumb-item">
+                    <a href="/">Home</a>
+                </li>
+                <li className="breadcrumb-item">
+                    <a href="/generalledger">General Ledger</a>
+                </li>
+                <li className="breadcrumb-item active">Budgeting</li>
+                </ol>
+            </div>
+            </div>
+        </div>
             <div className="card">
                 <div className="card-body">
+                    <div className="button-inventory">
+                        <button className="btn btn-dark">Good and Services</button>
+                        <button className="btn btn-dark">Product Requisition</button>
+                        <button className="btn btn-dark">Material Addition</button>
+                        <button className="btn btn-dark">Job Order</button>
+                        <button className="btn btn-dark">Product Category</button>
+                        <button className="btn btn-dark">Product Minimum Stock</button>
+                        <button className="btn btn-dark">Stock Adjusment</button>
+                        <button className="btn btn-dark">Warehouse</button>
+                        <button className="btn btn-dark">Warehouse Transfer</button>
+                        <button className="btn btn-dark">Product Unit</button>
+                    </div>
+                    
                     <div className="button2-inventory">
                         <button className="btn btn-dark">Export</button>
                         <button className="btn btn-dark">Print</button>
@@ -84,6 +102,6 @@ export const Inventory = () => {
                     </table>
                 </div>
             </div>
-        </div>
+        </>
     )
 }

@@ -1,8 +1,8 @@
 import React from 'react';
 import {Formik, Form, ErrorMessage, Field} from 'formik';
 import * as Yup from  'yup';
-import '../Auth/dist/css/style.min.css';
-import '../Auth/dist/css/pages/login-register-lock.css';
+// import '../Auth/dist/css/style.min.css';
+// import '../Auth/dist/css/pages/login-register-lock.css';
 
 export const CompanySetting = (props) => {
 

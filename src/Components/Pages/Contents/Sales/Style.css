@@ -1,0 +1,336 @@
+
+/* Sales */
+.button-sales button {
+    display: inline-block;
+    position: relative;
+    width: 150px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    font-size: 12px;
+}
+
+.button2-sales {
+    width: 100%;
+}
+
+.button2-sales button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.sales .card {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.sales h6 {
+    margin-top: 50px;
+}
+
+.sales h5 {
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.button3-sales button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-top: -40px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+.table {
+    margin-top: 50px;
+}
+
+/* Sales Order */
+.button-salesorder {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button-salesorder button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.salesorder h6 {
+    margin-top: 50px;
+}
+
+.salesorder h5 {
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.memo-salesorder {
+    margin-top: 200px;
+}
+
+#memo-salesorder {
+    width: 300px;
+}
+
+.card-salesorder {
+    width: 300px;
+    float: right;
+}
+
+.card-salesorder p {
+    font-size: 12px;;
+}
+
+.button2-salesorder button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-top: -40px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+/* Sales Delivery */
+.button-salesdelivery {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button-salesdelivery button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.salesdelivery h6 {
+    margin-top: 50px;
+}
+
+.salesdelivery h5 {
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.memo-salesdelivery {
+    margin-top: 200px;
+}
+
+#memo-salesdelivery {
+    width: 300px;
+}
+
+.card-salesdelivery {
+    width: 300px;
+    float: right;
+}
+
+.card-salesdelivery p {
+    font-size: 12px;;
+}
+
+.button2-salesdelivery button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-top: -40px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+/* Sales Quote */
+.button-salesquote {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button-salesquote button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.salesquote h6 {
+    margin-top: 50px;
+}
+
+.salesquote h5 {
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.memo-salesquote {
+    margin-top: 200px;
+}
+
+#memo-salesquote {
+    width: 300px;
+}
+
+.card-salesquote {
+    width: 300px;
+    float: right;
+}
+
+.card-salesquote p {
+    font-size: 12px;;
+}
+
+.button2-salesquote button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-top: -40px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+/* Sales Return */
+.button-salesreturn {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button-salesreturn button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.salesreturn h6 {
+    margin-top: 50px;
+}
+
+.salesreturn h5 {
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.memo-salesreturn {
+    margin-top: 200px;
+}
+
+#memo-salesreturn {
+    width: 300px;
+}
+
+.card-salesreturn {
+    width: 300px;
+    float: right;
+}
+
+.card-salesreturn p {
+    font-size: 12px;;
+}
+
+.button2-salesreturn button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-top: -40px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+/* Price Adjusment */
+.button-priceadjusment {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button-priceadjusment button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.memo-priceadjusment {
+    margin-top: 100px;
+}
+
+#memo-priceadjusment {
+    width: 300px;
+}
+
+.button2-priceadjusment button {
+    display: block;
+    width: 80px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    margin-top: -40px;
+    font-size: 12px;
+    float: right;
+}
+
+/* Discount */
+.button-discount {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.button-discount button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+/* Comission Sales */
+.button-comissionsales {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.button-comissionsales button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.memo-comissionsales {
+    margin-top: 100px;
+}
+
+#memo-comissionsales {
+    width: 300px;
+}
+
+.button2-comissionsales button {
+    display: block;
+    width: 80px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    margin-top: -40px;
+    font-size: 12px;
+    float: right;
+}

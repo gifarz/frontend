@@ -1,0 +1,105 @@
+/* CashBank */
+.cashbank .button1 {
+    width: 100%;
+    
+}
+
+.button1 button {
+    display: inline-block;
+    position: relative;
+    width: 150px;
+    margin-bottom: 100px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+.cashbank .card {
+    width: 100%; 
+    margin: auto; 
+    border-radius: 10px;
+}
+
+.cashbank .button2 {
+    width: 100%;
+}
+
+.button2 button {
+    display: inline-block;
+    float: right;
+    width: 80px;
+    margin-bottom: 100px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+h3 {
+    margin-top: 100px
+}
+
+/* Transfer Bank */
+.button-transferbank {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button-transferbank button {
+    display: inline-block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+#memo-transferbank {
+    width: 100%
+}
+
+.button2-transferbank button {
+    display: inline-block;
+    position: relative;
+    width: 150px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    margin-top: 50px;
+    font-size: 12px;
+    float: right;
+}
+
+/* Receive Money */
+.button-receivemoney {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button-receivemoney button {
+    display: inline-block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+#memo-receivemoney {
+    width: 100%
+}
+
+/* Pay Money */
+.button-paymoney {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button-paymoney button {
+    display: inline-block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+#memo-paymoney {
+    width: 100%
+}

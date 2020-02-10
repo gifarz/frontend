@@ -1,0 +1,14 @@
+.login-register {
+    margin-top: -150px;
+    height: 100%;
+    overflow: auto
+}
+
+button {
+    width: 100%
+}
+
+#confirmPassword {
+    margin-top: -20px;
+    color: red;
+}

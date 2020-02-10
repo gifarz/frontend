@@ -1,0 +1,29 @@
+/* Asset Management */
+.button-asset button {
+    display: inline-block;
+    position: relative;
+    width: 150px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    font-size: 12px;
+}
+
+.button2-asset {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button2-asset button {
+    display: inline-block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.button3-asset button {
+    width: 120px;
+    font-size: 12px;
+    margin-right: 5px;
+    margin-top: 20px;
+}

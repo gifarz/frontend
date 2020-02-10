@@ -1,0 +1,140 @@
+/* Dashboard */
+.dashboard {
+    display: inline-block;
+    width: 360px;
+}
+
+/* Expense */
+.button-expense button {
+    display: inline-block;
+    position: relative;
+    width: 150px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    font-size: 12px;
+}
+
+.button2-expense {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button2-expense button {
+    display: inline-block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.expense .card {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+/* Tax */
+.button-tax button {
+    display: inline-block;
+    position: relative;
+    width: 150px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    font-size: 12px;
+}
+
+.button2-tax {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button2-tax button {
+    display: inline-block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.tax .card {
+    margin-top: 50px;
+}
+
+/* Reports */
+.button-report button {
+    width: 150px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    font-size: 10px;
+}
+
+.button2-report {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button2-report button {
+    display: inline-block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.report .card {
+    margin-top: 50px;
+}
+
+/* Contact List */
+.button-contactlist button {
+    width: 150px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    font-size: 10px;
+}
+
+.button2-contactlist {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button2-contactlist button {
+    display: inline-block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.button3-contactlist button {
+    width: 150px;
+    margin-top: 30px;
+}
+
+.contactlist .card {
+    margin-top: 50px;
+}
+
+/* Setting */
+.button-setting button {
+    width: 150px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    font-size: 10px;
+}
+
+.button2-setting {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button2-setting button {
+    display: inline-block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.setting .card {
+    margin-top: 50px;
+}

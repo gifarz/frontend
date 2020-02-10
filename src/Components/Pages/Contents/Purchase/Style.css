@@ -1,0 +1,333 @@
+/* Purchase */
+.button-purchase button {
+    display: inline-block;
+    position: relative;
+    width: 150px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    font-size: 12px;
+}
+
+.button2-purchase {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button2-purchase button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.purchase .card {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+/* Purchase Invoice */
+.button-purchaseinvoice {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button-purchaseinvoice button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.purchaseinvoice h6 {
+    margin-top: 50px;
+}
+
+.purchaseinvoice h5 {
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+.memo-purchaseinvoice {
+    margin-top: 200px;
+}
+
+#memo-purchaseinvoice {
+    width: 300px;
+}
+
+.button2-purchaseinvoice button {
+    display: block;
+    width: 80px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    margin-top: -40px;
+    font-size: 12px;
+    float: right;
+}
+
+.card-purchaseinvoice {
+    width: 300px;
+    float: right;
+}
+
+.card-purchaseinvoice p {
+    font-size: 12px;;
+}
+
+/* Purchase Order */
+.button-purchaseorder {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button-purchaseorder button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.purchaseorder h6 {
+    margin-top: 50px;
+}
+
+.purchaseorder h5 {
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+.memo-purchaseorder {
+    margin-top: 200px;
+}
+
+#memo-purchaseorder {
+    width: 300px;
+}
+
+.button2-purchaseorder button {
+    display: block;
+    width: 80px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    margin-top: -40px;
+    font-size: 12px;
+    float: right;
+}
+
+.card-purchaseorder {
+    width: 300px;
+    float: right;
+}
+
+.card-purchaseorder p {
+    font-size: 12px;;
+}
+
+/* Purchase Delivery */
+.button-purchasedelivery {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button-purchasedelivery button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.purchasedelivery h6 {
+    margin-top: 50px;
+}
+
+.purchasedelivery h5 {
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+.memo-purchasedelivery {
+    margin-top: 200px;
+}
+
+#memo-purchasedelivery {
+    width: 300px;
+}
+
+.button2-purchasedelivery button {
+    display: block;
+    width: 80px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    margin-top: -40px;
+    font-size: 12px;
+    float: right;
+}
+
+.card-purchasedelivery {
+    width: 300px;
+    float: right;
+}
+
+.card-purchasedelivery p {
+    font-size: 12px;;
+}
+
+/* Purchase Quote */
+.button-purchasequote {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button-purchasequote button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.purchasequote h6 {
+    margin-top: 50px;
+}
+
+.purchasequote h5 {
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+.memo-purchasequote {
+    margin-top: 200px;
+}
+
+#memo-purchasequote {
+    width: 300px;
+}
+
+.button2-purchasequote button {
+    display: block;
+    width: 80px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    margin-top: -40px;
+    font-size: 12px;
+    float: right;
+}
+
+.card-purchasequote {
+    width: 300px;
+    float: right;
+}
+
+.card-purchasequote p {
+    font-size: 12px;;
+}
+
+/* Purchase Return */
+.button-purchasereturn {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button-purchasereturn button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.purchasereturn h6 {
+    margin-top: 50px;
+}
+
+.purchasereturn h5 {
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+.memo-purchasereturn {
+    margin-top: 200px;
+}
+
+#memo-purchasereturn {
+    width: 300px;
+}
+
+.button2-purchasereturn button {
+    display: block;
+    width: 80px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    margin-top: -40px;
+    font-size: 12px;
+    float: right;
+}
+
+.card-purchasereturn {
+    width: 300px;
+    float: right;
+}
+
+.card-purchasereturn p {
+    font-size: 12px;;
+}
+
+/* Supplier Price */
+.button-supplierprice {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.button-supplierprice button {
+    display: block;
+    float: right;
+    width: 80px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.supplierprice h6 {
+    margin-top: 50px;
+}
+
+.supplierprice h5 {
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+.memo-supplierprice {
+    margin-top: 100px;
+}
+
+#memo-supplierprice {
+    width: 300px;
+}
+
+.button2-supplierprice button {
+    display: block;
+    width: 80px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    margin-top: -40px;
+    font-size: 12px;
+    float: right;
+}
+
+.card-supplierprice {
+    width: 300px;
+    float: right;
+}
+
+.card-supplierprice p {
+    font-size: 12px;;
+}
